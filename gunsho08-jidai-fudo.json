@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/jidai-fudo-utaawase",
  "yomi": "じだいふどううたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "秀歌撰（撰歌合）",
+  "era": "鎌倉前期",
+  "author": "撰者 後鳥羽院",
+  "desc": "古今・後撰・拾遺の歌人を左に、後拾遺以後の歌人を右に置き、時代の違う歌人どうしの秀歌を百五十番に番えた撰歌合。人麻呂から宮内卿まで百人の歌を収める。判はない。"
+ },
  "editions": [
   {
    "pid": "1879502",
